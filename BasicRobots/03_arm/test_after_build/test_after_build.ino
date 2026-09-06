@@ -15,7 +15,7 @@ const int PIN_SERVO_RUKA = 6;
 const int PIN_TOUCH1 = 8;
 const int PIN_TOUCH2 = 9;
 
-const int PIN_JOY_SWITCH = 7;
+const int PIN_JOY_SWITCH = 28;
 const int PIN_JOY_X = 26;
 const int PIN_JOY_Y = 27;
 
